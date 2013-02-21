@@ -1,0 +1,9 @@
+Excercise 4: (Classes)
+--------------------------------------
+
+Add a class of FoodItem which has attributes like colour, type (fruit,
+vegetable etc), calories, size, weight.
+
+Create instances for the items in DATA
+
+Refactor parts A, B, C of ex2 and ex3

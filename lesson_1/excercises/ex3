@@ -1,0 +1,9 @@
+Excercise 3:
+------------
+
+In a new module, ask the user to input a food and if we know it - tell the user
+the colour. Otherwise ask the user for the colour and remember it.
+
+Run it
+
+Restart the program. Will the code remember the new foods you added last time?

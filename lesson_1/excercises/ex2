@@ -1,0 +1,22 @@
+Excercise 2:
+------------
+
+DATA = {
+    'tomato': 'red',
+    'chocolate': 'brown',
+    'carrot': 'orange',
+    'cabbage': 'green',
+    'orange': 'orange',
+    'apple': 'green',
+    'banana': 'yellow',
+    'mushroom soup': 'cream',
+}
+Part A
+    Create a function that takes a list of foods (from a known set) and returns
+    a list of those that are vegetables.
+
+Part B
+    Create another function that given a vegetable, returns its colour.
+
+Part C
+    Write tests for these functions.

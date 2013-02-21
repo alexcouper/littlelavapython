@@ -1,0 +1,20 @@
+Excercise 1:
+------------
+
+Part A
+    - Create a list of things (eg. foods, sports, people you know)
+    - Print all of them in a suitable fashion.
+    - Print one of them.
+    - Sort them and print them.
+    - Print only those that contain a specific letter.
+
+Part B
+    - Create a dict of things my_attributes:
+        - name
+        - age
+        - favourite_foods
+        - favourite_sports
+        - *your own key!*
+
+Part C
+    - Differences in adding to a list compared to reassigning value
