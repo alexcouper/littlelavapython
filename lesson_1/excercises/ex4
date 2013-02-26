@@ -1,5 +1,5 @@
 Excercise 4: (Classes)
---------------------------------------
+----------------------
 
 Add a class of FoodItem which has attributes like colour, type (fruit,
 vegetable etc), calories, size, weight.
