@@ -1,0 +1,19 @@
+username: pi
+password: muffin
+
+On the Raspberry Pi:
+    sudo python script_runner.py
+
+Then each student can run:
+    scp <filename> pi@<ip_address>:/home/pi/userscripts/
+
+eg.
+    scp brokenfile.py pi@192.168.1.109:/home/pi/userscripts/
+
+And the code will auto run on the PyPi box.
+
+Lesson Coverage:
+- Basic circuitry.
+- Cycle LED example.
+- Button input example.
+- Make the lights match the buttons.
